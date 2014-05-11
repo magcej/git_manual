@@ -1,13 +1,29 @@
+
+
 h1 {
-    font-family: Helvetica;
+    font-family: monospace;
     color: #fff;
+    text-align: center;
+}
+
+h3 {
+    color: #7D4456;
+
 }
 
 body {
-    background-color: #A069D6;
+    background-color: #D38CA3;
 }
 
 .terminal {
     font-family: monospace;
     font-size: 1,5em;
+}
+
+div {
+    border: 4px solid white;
+    padding: 10px;
+    border-radius: 8px;
+    width: 800px;
+    margin: auto;
 }
