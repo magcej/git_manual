@@ -17,7 +17,7 @@ body {
 
 .terminal {
     font-family: monospace;
-    font-size: 1,5em;
+    font-size: 14px;
 }
 
 div {
@@ -26,4 +26,21 @@ div {
     border-radius: 8px;
     width: 800px;
     margin: auto;
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    color: #6D1531;
+}
+
+li {
+    list-style-type:disc;
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Helvetica;
 }
